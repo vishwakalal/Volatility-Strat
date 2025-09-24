@@ -34,7 +34,8 @@ This repository includes the full algorithm `main.py` and the accompanying paper
 
 ## Paper
 
-[**Open the full paper (PDF)**](Volatility_Aware_Strategy.pdf)
+[**Full Paper Here**](Volatility_Aware_Strategy.pdf)  
+[**Full Results Here**](backtest_results.pdf)
 
 ## Quick start
 
